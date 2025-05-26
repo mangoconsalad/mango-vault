@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"14b70a745bef42f9","type":"text","text":"기획서 분석\n","x":-466,"y":-337,"width":266,"height":137,"color":"6"},
+		{"id":"f61057976ea6a91e","type":"text","text":"호이이잉","x":60,"y":-298,"width":250,"height":60},
+		{"id":"bc0c30fbec59c81b","type":"text","text":"[[캔버스 어떻게 하더라]]","x":-200,"y":-120,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"4ab7ad3775eb79f5","fromNode":"14b70a745bef42f9","fromSide":"right","toNode":"f61057976ea6a91e","toSide":"left"},
+		{"id":"ddd9cc8ff1560a73","fromNode":"f61057976ea6a91e","fromSide":"bottom","toNode":"bc0c30fbec59c81b","toSide":"top"},
+		{"id":"67c3b9bf02d04efb","fromNode":"bc0c30fbec59c81b","fromSide":"top","toNode":"14b70a745bef42f9","toSide":"bottom"}
+	]
+}

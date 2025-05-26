@@ -20,8 +20,54 @@
               "icon": "lucide-file",
               "title": "기획서 목차"
             }
+          },
+          {
+            "id": "bd9fe9831a0508d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "회사에서 클론 후 편집 시도.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "회사에서 클론 후 편집 시도"
+            }
+          },
+          {
+            "id": "78d8e8209abe0e9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "캔버스 어떻게 하더라.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "캔버스 어떻게 하더라"
+            }
+          },
+          {
+            "id": "55805572a109ed53",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
+                "viewState": {
+                  "x": 186.0602395304569,
+                  "y": 40.99651015228426,
+                  "zoom": -0.020638947758650227
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "1. Hello world"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -40,7 +86,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -53,9 +99,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "그랬",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -94,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "근데 이제 수정을 했다 쳐..md",
+                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "근데 이제 수정을 했다 쳐. 의 백링크"
+              "title": "1. Hello world 의 백링크"
             }
           },
           {
@@ -129,7 +175,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
@@ -142,16 +188,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "근데 이제 수정을 했다 쳐..md",
+                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "근데 이제 수정을 했다 쳐. 의 개요"
+              "title": "1. Hello world 의 개요"
+            }
+          },
+          {
+            "id": "7ae22f2aea7a280c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -165,15 +222,44 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "cannoli:Start/stop cannoli": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "7ca93887ae1b1894",
+  "active": "55805572a109ed53",
   "lastOpenFiles": [
+    "Cannoli College/6. Sub-cannolis/2. Sub-cannolis.canvas",
+    "Cannoli College/6. Sub-cannolis/1. Input and output nodes.canvas",
+    "Cannoli College/5. Groups/4. Parallel groups.canvas",
+    "Cannoli College/5. Groups/2. Loop groups.canvas",
+    "Cannoli College/5. Groups/1. Basic groups.canvas",
+    "Cannoli College/4. Vault interaction/7. Embedding Search (Smart Connections).canvas",
+    "Cannoli College/4. Vault interaction/6. Dataview.canvas",
+    "Cannoli College/4. Vault interaction/5. Referencing selections.canvas",
+    "Cannoli College/4. Vault interaction/3. Dynamic note references.canvas",
+    "Cannoli College/4. Vault interaction/2. Writing to notes.canvas",
+    "Cannoli College/4. Vault interaction/1. Referencing notes.canvas",
+    "캔버스 어떻게 하더라.md",
+    "회사에서 클론 후 편집 시도.md",
     "기획서 작성에 관하여/기획서 목차.md",
+    "2025-05-26.md",
+    "Cannoli College/Example notes/Walking Poem.md",
+    "Cannoli College/Example notes/Meeting Notes.md",
+    "Cannoli College/Example notes/Lemons for Cleaning.md",
+    "Cannoli College/Example notes/Apple Trees.md",
+    "Cannoli College/Example notes",
+    "Cannoli College/8. Additional features",
+    "Cannoli College/7. Built-in Actions",
+    "Cannoli College/6. Sub-cannolis",
+    "Cannoli College/5. Groups",
+    "Cannoli College/4. Vault interaction",
+    "Cannoli College/3. Special nodes",
+    "Cannoli College/2. Special arrows",
+    "Cannoli College/1. Basics",
+    "Cannoli College",
     "처음/폴더 중첩 해결.md",
-    "기획서 작성에 관하여",
-    "처음",
     "처음/근데 이제 수정을 했다 쳐..md",
     "처음/오케이 이제 새로운 시작이야..md",
     "처음/환영합니다!.md"
