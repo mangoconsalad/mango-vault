@@ -55,15 +55,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
+                "file": "보물상자 출시 플로우.canvas",
                 "viewState": {
-                  "x": 186.0602395304569,
-                  "y": 40.99651015228426,
-                  "zoom": -0.020638947758650227
+                  "x": 4362.176895289065,
+                  "y": 1427.2084713922081,
+                  "zoom": 0.09681803385416674
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "1. Hello world"
+              "title": "보물상자 출시 플로우"
             }
           }
         ],
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
+                "file": "보물상자 출시 플로우.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +150,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1. Hello world 의 백링크"
+              "title": "보물상자 출시 플로우 의 백링크"
             }
           },
           {
@@ -188,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cannoli College/1. Basics/1. Hello world.canvas",
+                "file": "보물상자 출시 플로우.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1. Hello world 의 개요"
+              "title": "보물상자 출시 플로우 의 개요"
             }
           },
           {
@@ -230,18 +230,21 @@
   },
   "active": "55805572a109ed53",
   "lastOpenFiles": [
+    "Pasted image 20250604194816.png",
+    "해당 코드.md",
+    "보물상자 출시 플로우.canvas",
+    "무제.md",
+    "캔버스 어떻게 하더라.md",
+    "아이템.md",
+    "컬렉션 등록 플로우.canvas",
+    "무제 1.canvas",
+    "Cannoli College/1. Basics/1. Hello world.canvas",
     "Cannoli College/6. Sub-cannolis/2. Sub-cannolis.canvas",
     "Cannoli College/6. Sub-cannolis/1. Input and output nodes.canvas",
     "Cannoli College/5. Groups/4. Parallel groups.canvas",
     "Cannoli College/5. Groups/2. Loop groups.canvas",
     "Cannoli College/5. Groups/1. Basic groups.canvas",
     "Cannoli College/4. Vault interaction/7. Embedding Search (Smart Connections).canvas",
-    "Cannoli College/4. Vault interaction/6. Dataview.canvas",
-    "Cannoli College/4. Vault interaction/5. Referencing selections.canvas",
-    "Cannoli College/4. Vault interaction/3. Dynamic note references.canvas",
-    "Cannoli College/4. Vault interaction/2. Writing to notes.canvas",
-    "Cannoli College/4. Vault interaction/1. Referencing notes.canvas",
-    "캔버스 어떻게 하더라.md",
     "회사에서 클론 후 편집 시도.md",
     "기획서 작성에 관하여/기획서 목차.md",
     "2025-05-26.md",
