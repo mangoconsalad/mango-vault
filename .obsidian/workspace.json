@@ -57,9 +57,9 @@
               "state": {
                 "file": "보물상자 출시 플로우.canvas",
                 "viewState": {
-                  "x": 4362.176895289065,
-                  "y": 1427.2084713922081,
-                  "zoom": 0.09681803385416674
+                  "x": 6735.264762566265,
+                  "y": 1197.3290505227085,
+                  "zoom": -2.888888997395833
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -203,8 +203,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ],
@@ -230,9 +230,11 @@
   },
   "active": "55805572a109ed53",
   "lastOpenFiles": [
-    "Pasted image 20250604194816.png",
     "해당 코드.md",
     "보물상자 출시 플로우.canvas",
+    "스크린샷_2025-03-12_오후_3.18.43.webp",
+    "무제 1.md",
+    "Pasted image 20250604194816.png",
     "무제.md",
     "캔버스 어떻게 하더라.md",
     "아이템.md",
